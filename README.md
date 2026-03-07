@@ -1,14 +1,9 @@
 How often do we judge what we see, without realizing that truth is sometimes hidden ?
-
-✨ My Latest Work ✨
 From data in a sheet to clean visions (story)
-
 Built with Excel: Power Pivots, Power Charts
-
 Duration: 5 days
 
 Key Indicators:
-
 *General Cards for: Total Sales – Total Profit – Total Quantity
 *Top Sales by Product
 *Bottom Sales by Product
