@@ -1,6 +1,9 @@
 How often do we judge what we see, without realizing that truth is sometimes hidden ?
+
 From data in a sheet to clean visions (story)
+
 Built with Excel: Power Pivots, Power Charts
+
 Duration: 5 days
 
 Key Indicators:
