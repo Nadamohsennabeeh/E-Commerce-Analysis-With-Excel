@@ -24,12 +24,6 @@ This project analyzes sales data to uncover business patterns and understand wha
 - Microsoft Excel
 - Power Pivot
 - PivotCharts
-- Data Analysis
-- Interactive Dashboard
-
-## Project Duration
-
-5 Days
 
 ## Project Goal
 
